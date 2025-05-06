@@ -1,6 +1,6 @@
 # Machine Learning Models: Supervised and Unsupervised Learning
 
-This repository provides a comprehensive implementation and analysis of key supervised and unsupervised machine learning algorithms using Python and `scikit-learn`. It includes clustering, dimensionality reduction, classification, and regression models, along with visualizations, performance metrics, and reproducible workflows. This repository was created in fulfillment of the requirements for CMOR 438 SPR 2026.
+This repository provides a comprehensive implementation and analysis of key supervised and unsupervised machine learning algorithms using Python and `scikit-learn`. It includes clustering, dimensionality reduction, classification, and regression models, along with visualizations, performance metrics, and reproducible workflows. This repository was created in fulfillment of the requirements for CMOR 438 SPR 2025.
 
 ---
 
